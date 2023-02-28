@@ -1,0 +1,18 @@
+{
+  "scenes": ["The defense against the siege of *city name* has been long and fierce.",
+    "The scrounged forces have been relentlessly fighting for control of the city.",
+    "The siege has been going on for months now. Entire streets have been engulfed in flames.",
+    "...",
+    "",
+    "You awaken in a street that has clearly been battled on.",
+    "You struggle to remember the bloody battle.",
+    "You push a body off of you and stand up.",
+    "As you look around, you think your in the clear for now.",
+    "You have to get back to the headquarters at the main market square."
+  ],
+  "trigger": "entry",
+  "attr": "bloodied_street",
+  "chance": 1,
+  "doOnce?": 1,
+  "waitTime": 4
+}

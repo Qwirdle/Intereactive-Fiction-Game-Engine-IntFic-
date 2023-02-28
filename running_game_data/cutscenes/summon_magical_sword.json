@@ -1,0 +1,8 @@
+{
+  "scenes": ["You raise your hand as if grasping for a sword", "You speak words with so much magic imbued in them they can't even be reproduced in text", "A magical sword blinks into existance firmly into your hands with a quick flash of light!", "player_give:-2", "room_exit_append:-Up the Street-Small Market square in *city name*"],
+  "trigger": "player_input",
+  "attr": "summon sword",
+  "chance": 1,
+  "doOnce?": 0,
+  "waitTime": 1
+}

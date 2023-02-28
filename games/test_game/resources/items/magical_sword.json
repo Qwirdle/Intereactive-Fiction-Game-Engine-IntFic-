@@ -1,0 +1,8 @@
+{
+  "name": "Magical Sword",
+  "description": "I can smell the magic from here",
+  "usemessages": [
+    {"fire": "You fire the Plasma Zapper 3000. Bang!"}
+  ],
+  "type": "Sword"
+}

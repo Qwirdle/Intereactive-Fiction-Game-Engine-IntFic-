@@ -1,0 +1,8 @@
+{
+  "name": "Battered Lantern",
+  "description": "A lit lantern that looks like it has been through quite a lot",
+  "usemessages": [
+    {"fire": "You fire the Plasma Zapper 3000. Bang!"}
+  ],
+  "type": "light_source"
+}

@@ -1,0 +1,8 @@
+{
+  "scenes": ["You stand up"],
+  "trigger": "player_input",
+  "attr": "stand up",
+  "chance": 1,
+  "doOnce?": 0,
+  "waitTime": 0
+}

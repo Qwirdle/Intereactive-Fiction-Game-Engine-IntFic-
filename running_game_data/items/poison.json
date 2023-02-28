@@ -1,0 +1,8 @@
+{
+  "name": "Poison",
+  "description": "99% Alcohol, 1% Love, 100% Ethenol",
+  "usemessages": [
+    {"fire": "You fire the Plasma Zapper 3000. Bang!"}
+  ],
+  "type": "Drink"
+}

@@ -1,0 +1,8 @@
+{
+  "scenes": ["You sit down"],
+  "trigger": "player_input",
+  "attr": "sit down",
+  "chance": 1,
+  "doOnce?": 0,
+  "waitTime": 0
+}

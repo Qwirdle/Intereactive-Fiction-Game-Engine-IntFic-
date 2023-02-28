@@ -1,0 +1,6 @@
+{
+  "name": "Bloodied Street in *city name*",
+  "description": "The street you are in in in *city name* is bloodied by the constant ongoing siege. Bodys are sprinkeled across the floor in varying conditions of damage. The houses around you are burning and you can hear the screaming and clashing of metal in the distance. The street seems safe at the moment though",
+  "exits": [],
+  "objects": [0, 1]
+}

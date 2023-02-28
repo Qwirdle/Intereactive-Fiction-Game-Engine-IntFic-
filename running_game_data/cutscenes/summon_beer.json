@@ -1,0 +1,8 @@
+{
+  "scenes": ["You summon some poison", "player_give: 1"],
+  "trigger": "player_input",
+  "attr": "summon poison",
+  "chance": 1,
+  "doOnce?": 0,
+  "waitTime": 0
+}

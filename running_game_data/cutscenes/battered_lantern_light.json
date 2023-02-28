@@ -1,0 +1,8 @@
+{
+  "scenes": ["Your battered lantern brings some light to the area"],
+  "trigger": "item",
+  "attr": 0,
+  "chance": 5,
+  "doOnce?": 0,
+  "waitTime": 0
+}
